@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGONISTIC",
+        "price": 200,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 2,
+        "img": "https://i.ibb.co/rMvw8R8/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGMENT",
+        "price": 250,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 6,
+        "img": "https://i.ibb.co/hCP0YQr/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": 599,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 3,
+        "img": "https://i.ibb.co/vPgLbD9/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPEARING",
+        "price": 100,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 1,
+        "img": "https://i.ibb.co/PNFpNTp/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "REPARE AND WASH",
+        "price": 230,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 2,
+        "img": "https://i.ibb.co/SP80fY1/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "CAR TOOLS AND ELEMENT",
+        "price": 340,
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
+        "time": 2,
+        "img": "https://i.ibb.co/hyJQJs1/6.jpg"
+    }
+]
