@@ -1,6 +1,6 @@
 .service-container{
     padding: 20px;
-    background-color: rgb(241, 216, 206);
+    background-color: rgb(224, 206, 241);
     border-radius: 25px;
 }
 .service-container img{
@@ -9,7 +9,7 @@
 }
 .sub-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 .title{
