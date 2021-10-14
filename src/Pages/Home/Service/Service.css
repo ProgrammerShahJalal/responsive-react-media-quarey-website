@@ -18,3 +18,37 @@
 .description{
     text-align: justify;
 }
+
+
+.btn-grad {background-image: linear-gradient(to right, #FF4E50 0%, #F9D423  51%, #FF4E50  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   outline: none;
+   border: none;
+ }
+
+ .btn-grad:hover {
+   background-position: right center;
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .super-btn{
+    padding: 15px 45px;
+    text-align: center;
+    background-color: burlywood;
+    outline: none;
+    border: none;
+    border-radius: 10px 50px 10px 50px;
+ }
+.super-btn:hover{
+    background-color: orange;
+}
