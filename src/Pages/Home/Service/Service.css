@@ -20,16 +20,14 @@
 }
 
 
-.btn-grad {background-image: linear-gradient(to right, #FF4E50 0%, #F9D423  51%, #FF4E50  100%)}
+.btn-grad {background-image: linear-gradient(to right, #FFAE2B 0%, #727AFF  51%, #FFAE2B  100%)}
 .btn-grad {
-   margin: 10px;
-   padding: 15px 45px;
+   padding: 10px 35px;
    text-align: center;
    text-transform: uppercase;
    transition: 0.5s;
    background-size: 200% auto;
-   color: white;            
-   box-shadow: 0 0 20px #eee;
+   color: white;
    border-radius: 10px;
    outline: none;
    border: none;
