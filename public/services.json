@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "name": "BRAKE REPEARING",
+        "name": "BRAKE REPAIRING",
         "price": 100,
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
         "time": 1,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "name": "REPARE AND WASH",
+        "name": "REPAIR AND WASH",
         "price": 230,
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus vitae nobis tempora consectetur ducimus praesentium ipsa soluta dolores, expedita fugit ipsum nemo commodi nesciunt magnam voluptate repudiandae consequuntur harum atque.",
         "time": 2,
